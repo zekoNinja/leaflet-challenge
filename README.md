@@ -42,5 +42,9 @@ Your visualization should look something like the preceding map.
 When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you will be given a JSON representation of that data. Use the URL of this JSON to pull in the data for the visualization. The following image is a sampling of earthquake data in JSON format:
 
 
-## Example of the map with the marker and legend 
+## Example of the map with the marker and legend, marker
 ![image](https://github.com/zekoNinja/leaflet-challenge/assets/141674216/138686cf-47e2-43c1-9a1f-82bc141b4a75)
+
+
+
+![image](https://github.com/zekoNinja/leaflet-challenge/assets/141674216/5bee5b21-88f1-41f8-8fd5-58706274c91e)
